@@ -1,1 +1,1 @@
-# python_pragrams
+# CORE PYTHON
