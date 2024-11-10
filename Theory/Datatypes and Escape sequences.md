@@ -20,9 +20,9 @@ type(x)
 **Python Supports three types of numeric data:**
 **Int**- Integer value can be any length such as integers 10, 2, 29, minus 20, minus 150 Etc.Python has no restriction on the length of an integer.Its value belongs to int.
 **Float**- Float is used to store floating point numbers like 1.9, 9.902, 15.2,etc.it is accurate up to 15 decimal points.
-**Complex**- A complex number contains an order to clear that is, express IY where X and Y denote the real and imaginary parts,respectively.The complex numbers like 2.14J,2.0 + 2.3j, Etc
+**Complex**- A complex number contains an order to clear that is, express IY where X and Y denote the real and imaginary parts,respectively.The complex numbers like 2.14J,2.0 + 2.3j, Etc.
 **Bool**- It will store True and False values.
-
+**Strings** - collection of characters. 
 **Escape Sequnces:**
 -> These are used to format the output message in the print statement.
 *\n* - newline
