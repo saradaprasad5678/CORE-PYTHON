@@ -18,7 +18,7 @@
 ->this is defined using a (#)symbol.
 ex:#this is a comment
 2.multiline comments
-->this is defined using double codes("") three times at staring of first line and ending of last line.
+->this is defined using thrice of double codes("")at staring of first line and ending of last line.
 ex:"""hello guys
-      this is me
+      this is me,
       myself and i"""
