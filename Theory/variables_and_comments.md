@@ -11,5 +11,14 @@
 --> The only allowed characters in python are
   >Alphabets(either lower or upper case)
   >Digits(0-9)
-  >Underscore symbol(_)  
-**Identifiers**
+  >Underscore symbol(_)
+**Comments**
+>we have two types of comments in python
+1.single line comments
+->this is defined using a (#)symbol.
+ex:#this is a comment
+2.multiline comments
+->this is defined using double codes("") three times at staring of first line and ending of last line.
+ex:"""hello guys
+      this is me
+      myself and i"""
