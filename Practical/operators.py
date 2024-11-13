@@ -1,4 +1,4 @@
-#program for all operators
+#program for arithmetic operators
 a=7
 b=4
 print(a+b)
@@ -14,3 +14,4 @@ a=10
 b=20
 c=30
 print((a+b+c)/3)
+
