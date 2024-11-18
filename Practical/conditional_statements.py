@@ -5,16 +5,6 @@ if x>18:
     print('eligible for voting')
 print(' not eligible for voting')    
     
-    
-#multiple-if statements
-
-a=int(input('enter number:'))
-if a>0:
-    print('a is positive')
-if a<0:
-    print('a is negative')
-if a==0:
-    print('a is zero')
 
 #if-else program
 age=int(input('enter age:'))
