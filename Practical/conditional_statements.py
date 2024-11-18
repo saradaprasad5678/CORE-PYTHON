@@ -5,21 +5,6 @@ if x>18:
     print('eligible for voting')
 print(' not eligible for voting')    
     
-#using logic operators
-#and
-a=int(input('enter number:'))
-if a%2==0 and a%3==0:
-    print('divisible')
-else:
-    print('not divisible')
-    
-#or
-a=int(input('enter number:'))
-if a%2==0 or a%3==0:
-    print('divisible')
-else:
-    print('not divisible')
-    
 #to check odd number
 x=int(input('enter number:'))
 if x%2!=0:
