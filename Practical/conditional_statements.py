@@ -4,14 +4,6 @@ x=int(input('enter age:'))
 if x>18:
     print('eligible for voting')
 print(' not eligible for voting')    
-        
-#to check even number
-x=int(input('enter number:'))
-if x%2==0:
-    print('even')
-else:
-    print('not even')
-    
     
 #using logic operators
 #and
